@@ -1,0 +1,35 @@
+header {
+    padding: 2em;
+    background-origin: #00aeff;
+    margin-top: 2em;
+    text-align: center;
+    color: black;
+}
+
+.quote {
+    font-size: 2em;
+}
+
+.btn-large {
+    margin: 0.5em;
+}
+
+.card {
+    text-align: center;
+    width: 45em;
+}
+
+.new-movie-button {
+    background-color: #00aeff;
+    border-color: rgb(90, 9, 241);
+}
+
+
+.new-show-button {
+    background-color: #00aeff;
+    border-color: rgb(90, 9, 241);
+}
+
+#button:hover {
+    background-color: teal;
+}
